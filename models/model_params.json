@@ -1,0 +1,16 @@
+{
+    "model_name": "xgboost",
+    "model_params": {
+        "n_estimators": 232,
+        "max_depth": 8,
+        "learning_rate": 0.01454877020944003,
+        "subsample": 0.9955153022026433,
+        "colsample_bytree": 0.9679592682343201,
+        "min_child_weight": 7,
+        "gamma": 0.34955546586648234,
+        "reg_alpha": 1.1082729972353083e-08,
+        "reg_lambda": 5.343890477972791e-07,
+        "scale_pos_weight": 2.773973433925954
+    },
+    "threshold": 0.34
+}
